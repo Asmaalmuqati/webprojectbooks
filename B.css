@@ -1,0 +1,28 @@
+
+
+body{background-color:white;
+     margin: 0px;
+    padding: 0px;}
+
+    h1{color: darkolivegreen; 
+    font-size: medium;}
+
+td{color:darkolivegreen;   /* المواد */
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+h2{font-size:x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   /* الجدول الثاني */
+    color:bisque;
+}
+ a{color: rgb(119, 22, 22); /* يخص الرابط التشعبي */
+    text-align: right;} 
+
+p{font-size: larger;      /* العنوان الثاني */
+color:rgb(195, 226, 214);  
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border-color:  dimgray;
+border-style: solid double;
+background-color:darkgreen;
+text-align: center;}
+
+h6{background-color:sienna;}
